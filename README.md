@@ -27,7 +27,7 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yapac&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/yapac/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yapacdev&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/yapacdev/github-readme-stats)
 
 </details>
 
