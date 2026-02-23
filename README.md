@@ -7,7 +7,7 @@
 #### 🚀 Full-Stack Developer • Product Engineer • Creative Technologist  
 
 - 🔧 Building performant and beautiful web experiences
-- 🎯 Currently freelancing + pursuing my **Bachelor’s in Software Engineering**
+- 🎯 Currently working full time as a senior web developer
 - 📈 Passionate about **scalable architecture**, **problem solving**, and **product-driven dev**
 - 🧠 Always exploring new tools, patterns & creative tech
 - 🌐 Portfolio live → [yapacdev.com](https://yapacdev.com)
