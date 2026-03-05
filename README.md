@@ -4,7 +4,7 @@
 
 ---
 
-#### 🚀 Full-Stack Developer • Product Engineer • Creative Technologist  
+#### 🚀 Full-Stack Developer • Product Engineer • Creative Technologist
 
 - 🔧 Building performant and beautiful web experiences
 - 🎯 Currently working full time as a senior web developer
@@ -24,12 +24,27 @@
 
 ---
 
-<details>
-  <summary>⚡ GitHub Stats</summary>
+### ⚡ GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yapacdev&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/yapacdev/github-readme-stats)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Yapacdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Yassine's GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yapacdev&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="165"
+  />
+</p>
 
-</details>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Yapacdev&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
