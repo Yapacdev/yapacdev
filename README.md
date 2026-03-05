@@ -28,7 +28,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Yapacdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Yapacdev"
     alt="Yassine's GitHub Stats"
     height="165"
   />
@@ -37,9 +37,9 @@
     alt="Top Languages"
     height="165"
   />
-  [![Yapacdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yapacdev)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
-  [![Yapacdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yapacdev)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Yapacdev&theme=tokyonight&hide_border=true"
