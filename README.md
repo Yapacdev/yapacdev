@@ -37,6 +37,7 @@
     alt="Top Languages"
     height="165"
   />
+  [![Yapacdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yapacdev)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
