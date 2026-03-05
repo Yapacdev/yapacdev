@@ -26,19 +26,7 @@
 
 ### ⚡ GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Yapacdev"
-    alt="Yassine's GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yapacdev&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="165"
-  />
 
-</p>
 
 <p align="center">
   <img
